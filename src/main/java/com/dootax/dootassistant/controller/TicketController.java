@@ -5,7 +5,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 
 @RestController
-@RequestMapping("/api/tickets")
+@RequestMapping("/api/tickets/new")
 @CrossOrigin(origins = "*")
 public class TicketController {
     @Autowired

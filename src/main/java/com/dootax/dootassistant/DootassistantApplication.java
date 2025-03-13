@@ -9,7 +9,7 @@ public class DootassistantApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(DootassistantApplication.class, args);
 
-		System.out.println("iniciado");
+		System.out.println("testeGitHub");
 	}
 
 }
